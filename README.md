@@ -1,2 +1,2 @@
 # Optifine
-Optifine for Minecraft: Bedrock Edition
+Optifine for Minecraft: Bedrock Edition.
